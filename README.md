@@ -1,5 +1,5 @@
 # learn_fortran
-Test code to learn Fortran language 
+Test code to learn the Fortran programming language  
 
 Based on the following tutorials:  
 Introduction to Programming using Fortran 95 by Janet Nicholson   
